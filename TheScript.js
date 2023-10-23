@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ROBLOX 2012-2013
-// @namespace    https://greasyfork.org/en/users/759797-lego-savant
+// @namespace    https://raw.githubusercontent.com/Cakedadev/2012-2013RobloxWebsite/main/TheScript.js
 // @version      1.1.9
 // @description  A Tampermonkey script was created to improve the theme on the Roblox website, enabling users to use the old feel of the 2012-2013 look on Roblox.
 // @author       CakeDaDev
